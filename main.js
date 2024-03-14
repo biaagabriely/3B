@@ -1,2 +1,2 @@
-const botoes= querySelectorAll(.botao);
+const botoes= querySelectorAll(".botao");
 console.log(botoes);
